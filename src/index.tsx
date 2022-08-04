@@ -1,4 +1,5 @@
 import { StrictMode } from "react";
+// @ts-ignore
 import * as ReactDOMClient from "react-dom/client";
 import { QueryClient, QueryClientProvider } from "react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
